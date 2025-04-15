@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Farah and I'm a Computer Engineering student currently in my 6th semester</p>
+<p align="left">My name is Farah and I'm a Computer Engineering student currently in my 8th semester</p>
 
 ###
 
